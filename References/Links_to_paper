@@ -7,3 +7,4 @@ http://hughchristensen.co.uk/papers/socialNetworking/1010.3003v1.pdf (Sentiment 
 http://www.aclweb.org/anthology/W04-3253 (generic sentiment analysis using SVMs)
 http://curtis.ml.cmu.edu/w/courses/index.php/Pak_2010_Twitter_as_a_Corpus_for_Sentiment_Analysis_and_Opinion_Mining (Sentiment Analysis of Twitter Data)
 http://mpqa.cs.pitt.edu/opinionfinder/opinionfinder_2/opinionfinder_2_0/ (this is for Opinionfinder a tool to semantically analyse the Twitter feed data, classifies into 2 moods)
+http://www.cs.cornell.edu/People/tj/publications/joachims_98a.pdf (Text Categorisation; maybe we can make our own version GPOMS)
